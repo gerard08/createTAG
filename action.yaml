@@ -1,0 +1,8 @@
+name: Easy automatic tag creator
+description: Automates the creation of tags and deploys
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: tag
+  color: green
