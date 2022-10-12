@@ -24,3 +24,4 @@ jobs:
             - uses: gerard08/createTAG@master
                 env:
                     GITHUB_TOKEN: ${{ secrets.GITHUB_TOEN }}
+```

@@ -1,5 +1,6 @@
 name: Easy automatic tag creator
 description: Automates the creation of tags and deploys
+author: Gerard Martínez Espelleta @germar08
 runs:
   using: docker
   image: Dockerfile
