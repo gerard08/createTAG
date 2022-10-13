@@ -7,4 +7,4 @@ build:
 	docker build --tag keyword-release-action .
 
 test:
-	bash entrypoint.sh $(KEYWORD)
+	./entrypoint.sh $(KEYWORD)
